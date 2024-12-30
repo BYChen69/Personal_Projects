@@ -1,3 +1,3 @@
 # Personal_Projects
 
-My first project. Really basic stuff, just trying to apply different things that I learned in class to a real world dataset. 
+I found a big dataset consisting of Florida university employees and their salaries, university, job title, and more. This is my first project so don't expect too much lol.
